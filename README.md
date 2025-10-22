@@ -31,19 +31,6 @@ The goal is to identify key factors influencing success and enable early interve
 
 ---
 
-## 📁 Project Structure
-
-student-performance-prediction/
-│
-├── datastudents_performance.csv.csv # Dataset used
-├── predict_student_performance.py # Main project script
-├── outputs/ # Model and visual outputs
-│ ├── model.joblib
-│ ├── feature_importances.csv
-│ └── roc_random_forest.png
-├── requirements.txt # Dependencies
-└── README.md # Documentation
-
 ## Install dependencies
 
 pip install -r requirements.txt
@@ -69,4 +56,5 @@ Key Features: Study time, parental education, and past failures.
 ## 👨‍💻 Author
 Baig Azizul Hakim
 📍 Aspiring AI & Frontend Developer | Data Enthusiast
+
 
