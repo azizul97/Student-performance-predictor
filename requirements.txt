@@ -1,0 +1,9 @@
+pandas>=1.3
+numpy>=1.21
+scikit-learn>=1.0
+matplotlib>=3.4
+seaborn>=0.11
+joblib>=1.0
+xgboost>=1.7.0   # optional: if you don't want xgboost, you may remove this line
+
+# Tested on Python 3.10+
